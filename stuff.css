@@ -1,0 +1,9 @@
+div {
+    margin: auto;
+    text-align: center;
+    width: 300px;
+}
+
+form input {
+    margin: 10px;
+}
